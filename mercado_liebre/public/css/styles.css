@@ -1,0 +1,15 @@
+body{
+    background-color: wheat;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.clarito{
+    color: darkgrey;
+}
+.destacado{
+    color: black;
+    background-color: yellow;
+    font-size: 30px;
+}
+
